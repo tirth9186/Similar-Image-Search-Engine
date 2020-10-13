@@ -40,4 +40,8 @@ Result
 
 ![Output Demo](https://github.com/tirth9186/Similar-Image-Search-Engine/blob/master/images/Result.png?raw=true)
 
+References
+
+1. Barrios, Juan Manuel, Diego Díaz-Espinoza, and Benjamin Bustos. "Text-based and content-based image retrieval on Flickr." 2009 Second International Workshop on Similarity Search and Applications. IEEE, 2009.
+2. https://medium.com/@raman.shinde15/image-captioning-with-flickr8k-dataset-bleu-4bcba0b52926
 
